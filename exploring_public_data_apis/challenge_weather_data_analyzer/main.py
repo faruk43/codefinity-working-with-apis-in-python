@@ -16,10 +16,3 @@ def fetch_berlin_weather():
 fetch_berlin_weather()
 
 
-"""
-temperature = data["current_weather"]["temperature"]
-wind_speed = data["current_weather"]["windspeed"]
-
-print("Temperature:", temperature, "°C")
-print("Wind speed:", wind_speed, "km/h")
-"""
